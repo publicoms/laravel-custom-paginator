@@ -1,6 +1,6 @@
 <?php
 
-namespace Askedio\ItemPaginator\Tests\App;
+namespace publicoms\ItemPaginator\Tests\App;
 
 use Illuminate\Database\Eloquent\Model;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Askedio\ItemPaginator\Tests;
+namespace publicoms\ItemPaginator\Tests;
 
 use Illuminate\Filesystem\ClassFinder;
 use Illuminate\Filesystem\Filesystem;

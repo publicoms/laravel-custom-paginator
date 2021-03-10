@@ -1,8 +1,8 @@
 <?php
 
-namespace Askedio\ItemPaginator\Tests;
+namespace publicoms\ItemPaginator\Tests;
 
-use Askedio\ItemPaginator\Tests\App\User;
+use publicoms\ItemPaginator\Tests\App\User;
 
 class ItemPaginatorTest extends BaseTestCase
 {

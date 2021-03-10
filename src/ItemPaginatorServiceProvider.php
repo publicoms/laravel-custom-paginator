@@ -1,6 +1,6 @@
 <?php
 
-namespace Askedio\ItemPaginator;
+namespace publicoms\ItemPaginator;
 
 use Illuminate\Support\ServiceProvider;
 

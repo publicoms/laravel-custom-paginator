@@ -1,12 +1,12 @@
 {
-    "name": "askedio/laravel-item-paginate",
+    "name": "publicoms/Laravel-Custom-Paginator",
     "description": "Paginate based on last item, not pages.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "William",
-            "email": "gcphost@gmail.com"
+            "name": "KARIM",
+            "email": "ocpmstest@gmail.com"
         }
     ],
     "require": {
@@ -35,7 +35,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Askedio\\ItemPaginator\\ItemPaginatorServiceProvider"
+                "publicoms\\Laravel-Custom-Paginator"
             ]
         }
     }
