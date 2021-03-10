@@ -1,5 +1,5 @@
 {
-    "name": "publicoms/Laravel-Custom-Paginator",
+    "name": "publicoms/laravel-custom-paginator",
     "description": "Paginate based on last item, not pages.",
     "type": "library",
     "license": "MIT",
@@ -20,12 +20,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Askedio\\ItemPaginator\\": "src/"
+            "publicoms\\ItemPaginator\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Askedio\\ItemPaginator\\Tests\\" : "tests"
+            "publicoms\\ItemPaginator\\Tests\\" : "tests"
         }
     },
     "scripts": {
@@ -35,7 +35,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "publicoms\\Laravel-Custom-Paginator"
+                "publicoms\\laravel-custom-paginator"
             ]
         }
     }
