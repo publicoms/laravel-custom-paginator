@@ -10,18 +10,18 @@ Paginate based on last item, not page.
 # Installation
 
 ~~~
-composer require askedio/laravel-item-paginate
+composer require publicoms/laravel-custom-paginator
 ~~~
 
 Add the following trait to your Models.
 
 ```php
-use \Askedio\ItemPaginator\ItemPaginatorTrait;
+use \publicoms\ItemPaginator\ItemPaginatorTrait;
 ```
 
 Add the following provider to `config/app.php`
 ```php
-\Askedio\ItemPaginator\ItemPaginatorServiceProvider::class,
+\publicoms\ItemPaginator\ItemPaginatorServiceProvider::class,
 ```
 
 
