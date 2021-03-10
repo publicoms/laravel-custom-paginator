@@ -35,7 +35,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "publicoms\\laravel-custom-paginator"
+                "publicoms\\ItemPaginator\\ItemPaginatorServiceProvider"
             ]
         }
     }
